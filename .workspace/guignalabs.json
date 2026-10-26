@@ -1,0 +1,26 @@
+{
+  "files": {
+    ".gitignore": {
+      "managed_block_sha256": "9a2f9e6b6e4905e8d3eac4b1f6f4a1603ef758f414ecb5f32f1dbf1398063516",
+      "rule": "*.workspace.*"
+    },
+    ".workspace/development.md": {
+      "sha256": "70171b6bdb0d86f29fc2f0910799d7d05364c0dec9753e0265ee31dc97db799f",
+      "template": "templates/repository/development.md"
+    },
+    ".workspace/templates/task.md": {
+      "sha256": "5be268e0a85159434725f03e2dd6faa77dcadd98305a4d847a6ffbbd83d1f6df",
+      "template": "templates/repository/task.md"
+    },
+    ".workspace/workflow.md": {
+      "sha256": "c1df31cd6753ca36ee471480f4a1a1d1f28d72717bf83abf0367618401e4ee73",
+      "template": "templates/repository/workflow.md"
+    },
+    "AGENTS.md": {
+      "managed_block_sha256": "1a7d1427040446550fdf5075a63e8d43ebded9699ec757071cd23040c42016e4",
+      "template": "templates/repository/AGENTS.md"
+    }
+  },
+  "schema_version": 2,
+  "template_version": 11
+}
